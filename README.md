@@ -1,5 +1,5 @@
 # Qip-regger
-Qip regger by @FradyRad  Авторегистратор почтовых ящиков Qip
+# Qip regger by @FradyRad  Авторегистратор почтовых ящиков Qip
 ![alt text](https://i.postimg.cc/xJ0tS1v0/Screenshot-1.png)
 
 ![alt text](https://i.postimg.cc/xJ0tS1v0/Screenshot-2.png)
